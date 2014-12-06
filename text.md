@@ -11,3 +11,7 @@ I've added this bit of text as my fourth or fifth change.  I can't now remember.
 
 Here is my second set of changes.  Hopefully I'll see this in the "diff" operation that
 I'll run in a bit.
+
+Made this change on master
+============================
+I made this change on the master branch on my local repository
