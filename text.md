@@ -1,7 +1,10 @@
 This is a text file that I've created in my local directory.
 ======================================================================
 
-
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
 
 I'm trying to learn about how to save this to the "index" so that it's staged and then how to commit changes to the repository.
 
